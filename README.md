@@ -61,7 +61,7 @@ To get you started, we used actions to go ahead and made a branch and pull reque
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  Add a link to get support, GitHub status page, code of conduct, license link..njklkjn
 -->
 
 ---
